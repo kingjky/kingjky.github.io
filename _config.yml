@@ -8,12 +8,12 @@ url: "https://www.nhn.com" # the base hostname & protocol for your site, e.g. ht
 author:
   name: 'Kyung Yoon'
   last_name: 'Jeon'
-  cv: '//kaptn.ru'
+#   cv: '//kaptn.ru'
   avatar: '/images/avatar.jpeg'
   github_username:  kingjky  
   email: kingjky@gmail.com
   vk_id: id201664979
-  telegram_name: vikapitoshka 
+#   telegram_name: vikapitoshka 
   logo: '/images/logo.svg'
 
 # Build settings
