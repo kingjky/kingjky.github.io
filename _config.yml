@@ -13,9 +13,9 @@ author:
   avatar: '/images/avatar.jpeg'
   github_username:  kingjky  
   email: kingjky@gmail.com
-  vk_id: id201664979
+#  vk_id: id201664979
 #   telegram_name: vikapitoshka 
-  logo: '/images/logo.svg'
+  logo: '/images/logo.png'
 
 # Build settings
 markdown: kramdown
