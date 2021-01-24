@@ -6,7 +6,7 @@ category: daily
 icon: www-black
 keywords: tag1, tag2
 image: 1.jpg
-preview: 1
+preview: 0
 ---
 
 **2021.01.04 입사**
