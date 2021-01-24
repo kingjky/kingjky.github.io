@@ -5,7 +5,7 @@ date:   2021-01-24 19:12
 category: daily
 icon: www-black
 keywords: tag1, tag2
-image: 1.jpg
+image: IMG_6547.jpg
 preview: 0
 ---
 
