@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "NHN 루키를 시작하며"
-date:   2021-01-24 00:00
+date:   2021-01-24 19:12
 category: daily
 icon: www-black
 keywords: tag1, tag2
