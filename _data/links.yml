@@ -2,7 +2,7 @@
 - name: Daily
   href: '/daily/'
 
-- name: Development
+- name: Dev
   href: '/dev/'
 
 - name: category1
