@@ -7,6 +7,7 @@ icon: www-black
 keywords: tag1, tag2
 image: IMG_6547.jpg
 preview: 0
+comments: true
 ---
 
 **2021.01.04 입사**
