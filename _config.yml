@@ -1,6 +1,6 @@
 title: kingjky's Blog
 description: > # this means to ignore newlines until "baseurl:"
-  안녕하세요.<br>NHN 8기 기술신입 전경윤입니다.
+  안녕하세요.<br>NHN 기술신입 8기<br>루키오리TF 전경윤입니다.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.nhn.com" # the base hostname & protocol for your site, e.g. http://example.com
 lang: ko
