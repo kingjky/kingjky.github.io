@@ -1,4 +1,10 @@
 # blog page sections
+- name: Daily
+  href: '/daily/'
+
+- name: Development
+  href: '/dev/'
+
 - name: category1
   href: '/category1/'
 
